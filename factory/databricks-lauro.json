@@ -1,0 +1,9 @@
+{
+	"name": "databricks-lauro",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36e4253e-7e64-410d-877e-14fc84cd24fb",
+		"tenantId": "d33f14e6-73ad-408d-9e3c-0c58b7c95311"
+	}
+}
